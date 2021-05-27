@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"ob","characterIndex":0,"characterName":"o","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"o","traits":[{"code":43,"dataId":11,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Obama","nickname":"Obama","note":"","profile":""}
+{"id":1,"battlerName":"ob","characterIndex":0,"characterName":"o","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"o","traits":[{"code":43,"dataId":11,"value":1}],"initialLevel":69,"maxLevel":99,"name":"Obama","nickname":"Obama","note":"","profile":"Uh my fellow americans, uh m"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":69,"maxLevel":99,"name":"Butter Dog","nickname":"Butter","note":"","profile":"Im the Butter Dog"}
 ]
